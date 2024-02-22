@@ -18,7 +18,7 @@ Non-intrusive load monitoring (NILM) involves obtaining appliance-level data fro
 
 To achieve high classification performance with improved energy efficiency, we introduced a new DL CtRNN architecture. The architecture comprises four blocks, each with convolutional layers, average pooling layers, a transposed convolutional layer, and a gated recurrent unit (GRU) layer. The output layer adapts based on specific dataset requirements.
 
-![CtRNN Architecture](/path/to/figure4.png)
+![CtRNN Architecture](/pics_github_notebook/architecture.png)
 
 The architecture is also displayed in code under the Section 3: Architectures. 
 
