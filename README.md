@@ -26,3 +26,4 @@ The architecture is also displayed in code under the Section 3: Architectures.
 If you wish to run the code as it is, we recommend that your system has the following specifications:
 - RAM: 256GB+
 - GPU: gtx 4090 or better
+- CPU: 8 core, 16 threads or better
