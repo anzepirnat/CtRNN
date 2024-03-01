@@ -1,4 +1,4 @@
-# Deep Learning for Non-Intrusive Load Monitoring (NILM)
+# Energy Efficient Deep Multi-Label ON/OFF Classification of Low Frequency Metered Home Appliances
 
 ## Overview
 
