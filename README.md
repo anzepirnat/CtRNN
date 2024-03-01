@@ -2,11 +2,17 @@
 
 ## Overview
 
-This repository contains the code demo for the paper titled "Enhanced Multi-label Classification in NILM using a DL CtRNN Model with Improved Energy Efficiency". The paper introduces a novel Deep Learning (DL) model for Non-Intrusive Load Monitoring (NILM) with a focus on improved computation and energy efficiency.
+This repository contains the code demo for the paper titled "Enhanced Multi-label Classification in NILM using a DL CtRNN Model with Improved Energy Efficiency". 
 
 ## Contents
 
-Non-intrusive load monitoring (NILM) involves obtaining appliance-level data from a single metering point to measure total electricity consumption. This repository presents a DL CtRNN (Convolutional Transposed Recurrent Neural Network) architecture designed for enhanced multi-label classification in NILM. The model aims to improve computation and energy efficiency compared to classical machine learning and deep learning techniques.
+Non-intrusive load monitoring (NILM) involves obtaining appliance-level data from a single metering point to measure total electricity consumption. 
+
+Notebook in this repository presents:
+- DL CtRNN (Convolutional Transposed Recurrent Neural Network) architecture designed for enhanced multi-label classification in NILM. Architecture is implemented and depicted in the code. 
+- Evaluation methodology consisting of RE and SE groups of mixed datasets. Code contains all functions that were used to process REFIT and UK-DALE datasets to shape any of the mixed datasets from RE and SE groups.
+
+The notebook includes examples that showce the practical usage of functions, with comprehensive explanations provided in the accompanying markdowns.
 
 ## Contributions of our paper
 
