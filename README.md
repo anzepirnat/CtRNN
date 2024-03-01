@@ -25,5 +25,5 @@ The architecture is also displayed in code under the Section 3: Architectures.
 ## Usage
 If you wish to run the code as it is, we recommend that your system has the following specifications:
 - RAM: 256GB+
-- GPU: 8GB+ VRAM
+- GPU: 8GB+ VRAM (you might need to adjust batch size)
 - CPU: 8 core, 16 threads or better
