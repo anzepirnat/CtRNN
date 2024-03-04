@@ -29,9 +29,9 @@ To achieve high classification performance with improved energy efficiency, we i
 The architecture is also displayed in code under the Section 3: Architectures. 
 
 ## Usage
-For a seamless reading experience of the notebook, download the images from the map "pics_github_notebook" in repository and place them into a directory named "notebook_pics" that resides in the same location as the notebook.
+For a seamless reading experience of the notebook, download the map "notebook_pics" in repository and place them into the same directory as the notebook.
 
-If you wish to run the code as it is, we recommend that your system has the following specifications:
+If you wish to run the code, we recommend that your system has the following specifications:
 - RAM: 256GB+
 - GPU: 8GB+ VRAM (you might need to adjust batch size)
 - CPU: 8 core, 16 threads or better
