@@ -40,7 +40,7 @@ If you wish to run the code, we recommend that your system has the following spe
 If you prefer to download the RE example mixed dataset instead of generating it with code (due to long wait time), you may contact me on ap6928@student.uni-lj.si and I will share it with you.
 
 ## Citation
-If you find
+If you find our work useful in your research, or if you are using any part of the code please consider citing our paper. 
 
 ### Ackwnoledgement
 This work was funded in part by the Slovenian Research Agency under the grant P2-0016. This project has received funding from the
