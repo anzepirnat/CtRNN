@@ -24,7 +24,7 @@ The notebook includes examples that showce the practical usage of functions, wit
 
 To achieve high classification performance with improved energy efficiency, we introduced a new DL CtRNN architecture. The architecture comprises four blocks, each with convolutional layers, average pooling layers, a transposed convolutional layer, and a gated recurrent unit (GRU) layer. The output layer needs to be adapted based on specific dataset requirements.
 
-![CtRNN Architecture](/pics_github_notebook/architecture.png)
+![CtRNN Architecture](/notebook_pics/architecture.png)
 
 The architecture is also displayed in code under the Section 3: Architectures. 
 
