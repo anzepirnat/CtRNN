@@ -8,7 +8,7 @@ This repository contains the code demo for the paper titled "Enhanced Multi-labe
 
 Non-intrusive load monitoring (NILM) involves obtaining appliance-level data from a single metering point to measure total electricity consumption. 
 
-Notebook in this repository presents:
+Notebook in this repository encompasses:
 - DL CtRNN (Convolutional Transposed Recurrent Neural Network) architecture designed for enhanced multi-label classification in NILM. Architecture is implemented and depicted in the code. 
 - Evaluation methodology consisting of RE and SE groups of mixed datasets. Code contains all functions that were used to process REFIT and UK-DALE datasets to shape any of the mixed datasets from RE and SE groups.
 
@@ -28,6 +28,7 @@ To achieve high classification performance with improved energy efficiency, we i
 
 The architecture is also displayed in code under the Section 3: Architectures. 
 
+
 ## Usage
 For a seamless reading experience of the notebook, download the map "notebook_pics" in repository and place them into the same directory as the notebook.
 
@@ -35,3 +36,5 @@ If you wish to run the code, we recommend that your system has the following spe
 - RAM: 256GB+
 - GPU: 8GB+ VRAM (you might need to adjust batch size)
 - CPU: 8 core, 16 threads or better
+
+If you prefer to download the RE example mixed dataset instead of generating it with code (due to long wait time), you may contact me on ap6928@student.uni-lj.si and I will share it with you.
