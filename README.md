@@ -1,4 +1,10 @@
 # Energy Efficient Deep Multi-Label ON/OFF Classification of Low Frequency Metered Home Appliances
+[Anže Pirnat](https://sensorlab.ijs.si/people/apirnat/)\*,
+[Blaž Bertalanič](https://sensorlab.ijs.si/people/bbertalanic/)\,
+[Gregor Cerar](https://sensorlab.ijs.si/people/gcerar/),
+[Mihael Mohorčič](https://sensorlab.ijs.si/people/mmohorcic/),
+[Carolina Fortuna](https://sensorlab.ijs.si/people/cfortuna/)<br>
+Sensorlab, Jozef Stefan Institute
 
 ## Overview
 
