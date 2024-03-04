@@ -38,3 +38,10 @@ If you wish to run the code, we recommend that your system has the following spe
 - CPU: 8 core, 16 threads or better
 
 If you prefer to download the RE example mixed dataset instead of generating it with code (due to long wait time), you may contact me on ap6928@student.uni-lj.si and I will share it with you.
+
+## Citation
+If you find
+
+### Ackwnoledgement
+This work was funded in part by the Slovenian Research Agency under the grant P2-0016. This project has received funding from the
+European Union’s Horizon Europe Framework Programme under grant agreement No 872525 (BD4OPEM).
