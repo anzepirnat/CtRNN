@@ -8,7 +8,7 @@ Sensorlab, Jozef Stefan Institute
 
 ## Overview
 
-This repository contains the code demo for the paper titled "Enhanced Multi-label Classification in NILM using a DL CtRNN Model with Improved Energy Efficiency". 
+This repository contains the code demo for the paper titled "Enhanced Multi-label Classification in NILM using a DL CtRNN Model with Improved Energy Efficiency", which showcases our proposed methodology and our architecture. The code may be used to reproduce SE and RE groups of mixed datasets for your evaluation needs.
 
 ## Contents
 
