@@ -34,6 +34,10 @@ To achieve high classification performance with improved energy efficiency, we i
 
 The architecture is also displayed in code under the Section 3: Architectures. 
 
+## Realistic Evaluation (RE) and Sensitivity Evaluation (SE) 
+...
+
+
 
 ## Usage
 For a seamless reading experience of the notebook, download the map "notebook_pics" in repository and place them into the same directory as the notebook.
