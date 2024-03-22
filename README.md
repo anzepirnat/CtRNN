@@ -35,7 +35,7 @@ To achieve high classification performance with improved energy efficiency, we i
 The architecture is also displayed in code under the Section 3: Architectures. 
 
 ## Realistic Evaluation (RE) and Sensitivity Evaluation (SE) 
-...
+To improve on the realism of evaluation and to evaluate sensitivity of models on number of active devices out of all devices in the household we propose these two methodologies. They are explained in detail and depicted for easier understanding in the paper. 
 
 
 
