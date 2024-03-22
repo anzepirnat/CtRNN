@@ -47,7 +47,7 @@ If you wish to run the code, we recommend that your system has the following spe
 - GPU: 8GB+ VRAM (you might need to adjust batch size)
 - CPU: 8 core, 16 threads or better
 
-If you prefer to download the RE mixed dataset example instead of generating it with code (due to long wait time), you may contact me on ap6928@student.uni-lj.si and I will share it with you.
+If you prefer to download the RE mixed dataset example instead of generating it with code (due to long wait time), you may contact me on anze.pirnat2001@gmail.com and I will share it with you.
 
 ## Citation
 If you find our work useful in your research, or if you are using any part of the code please consider citing our paper. 
